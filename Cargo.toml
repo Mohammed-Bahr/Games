@@ -1,0 +1,11 @@
+[package]
+name = "ball_arena"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+gtk = { version = "0.8", package = "gtk4" }
+glib = "0.19"
+cairo-rs = "0.19"
+rand = "0.8"
